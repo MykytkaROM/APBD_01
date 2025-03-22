@@ -1,0 +1,14 @@
+C:\Users\garyp\OneDrive\Desktop\Containers\ContainersApp\obj\Debug\net8.0\ContainersApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garyp\OneDrive\Desktop\Containers\ContainersApp\obj\Debug\net8.0\ContainersApp.AssemblyInfoInputs.cache
+C:\Users\garyp\OneDrive\Desktop\Containers\ContainersApp\obj\Debug\net8.0\ContainersApp.AssemblyInfo.cs
+C:\Users\garyp\OneDrive\Desktop\Containers\ContainersApp\obj\Debug\net8.0\ContainersApp.csproj.CoreCompileInputs.cache
+C:\Users\garyp\OneDrive\Desktop\Containers\ContainersApp\bin\Debug\net8.0\ContainersApp.exe
+C:\Users\garyp\OneDrive\Desktop\Containers\ContainersApp\bin\Debug\net8.0\ContainersApp.deps.json
+C:\Users\garyp\OneDrive\Desktop\Containers\ContainersApp\bin\Debug\net8.0\ContainersApp.runtimeconfig.json
+C:\Users\garyp\OneDrive\Desktop\Containers\ContainersApp\bin\Debug\net8.0\ContainersApp.dll
+C:\Users\garyp\OneDrive\Desktop\Containers\ContainersApp\bin\Debug\net8.0\ContainersApp.pdb
+C:\Users\garyp\OneDrive\Desktop\Containers\ContainersApp\obj\Debug\net8.0\ContainersApp.dll
+C:\Users\garyp\OneDrive\Desktop\Containers\ContainersApp\obj\Debug\net8.0\refint\ContainersApp.dll
+C:\Users\garyp\OneDrive\Desktop\Containers\ContainersApp\obj\Debug\net8.0\ContainersApp.pdb
+C:\Users\garyp\OneDrive\Desktop\Containers\ContainersApp\obj\Debug\net8.0\ContainersApp.genruntimeconfig.cache
+C:\Users\garyp\OneDrive\Desktop\Containers\ContainersApp\obj\Debug\net8.0\ref\ContainersApp.dll
